@@ -13,6 +13,7 @@ import java.util.List;
 
 @RestController
 @Service
+//@EnableAuthorizationServer
 @RequestMapping("/post")
 public class PostsController {
     @Autowired
