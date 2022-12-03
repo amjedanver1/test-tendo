@@ -24,11 +24,13 @@ Ex: <br/>
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUZXN0VXNlciIsImV4cCI6MTY3MDExNDgzMywiaWF0IjoxNjcwMDc4ODMzfQ.SQOUKJLGfT_q9oCtq5EBTQgnG-p2AVljGd2hx-iVSUs
 
 <br/>
-#User
+# User
+<br/>
 http://localhost:8090/user/getAll 
 <br/>
 
 # Post
+<br/>
 http://localhost:8090/post/getAll
 <br/>
 http://localhost:8090/post/getByUserId/3907
