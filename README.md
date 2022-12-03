@@ -23,7 +23,7 @@ Bearer take update Jwt token from above mentioned authentication API.
 Ex: <br/>
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUZXN0VXNlciIsImV4cCI6MTY3MDExNDgzMywiaWF0IjoxNjcwMDc4ODMzfQ.SQOUKJLGfT_q9oCtq5EBTQgnG-p2AVljGd2hx-iVSUs
 
-
+<br/>
 #User
 http://localhost:8090/user/getAll 
 <br/>
