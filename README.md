@@ -1,19 +1,24 @@
 # test-lendo
 Public api processing and authentication
 
-User following Users for testing :
-# User 1
-User Name: testuser
-<br/>
-password: testUser1 
+# Get Authentication token
+Method : Post 
+URL : http://localhost:8090/auth
 
-# User 2
-User Name: testuser2 
-<br/>
-password: testuser2
+Request Body : {
+                   "username": "TestUser",
+                   "password": "TestPassword"
+               }
+               
+Header : Content-Type:application/json
+
 
 
 +++++++++++++++++++++++++++APIs  +++++++++++++++++++++++
+Retrive data from following API's you have to use authorization token for every following apis for header of request.
+
+Authorization:Bearer take update Jwt token from aout mentioned api
+
 #User
 http://localhost:8090/user/getAll 
 <br/>
