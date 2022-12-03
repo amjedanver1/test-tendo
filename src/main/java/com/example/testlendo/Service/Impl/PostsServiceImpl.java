@@ -1,6 +1,5 @@
 package com.example.testlendo.Service.Impl;
 import com.example.testlendo.Service.PostsService;
-import com.example.testlendo.dto.CommentDto;
 import com.example.testlendo.dto.PostsDto;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
