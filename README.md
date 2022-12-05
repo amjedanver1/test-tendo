@@ -3,7 +3,7 @@ Public api processing and authentication
 
 <br/>
 
-# User VM option in Spring boot project 
+# Use VM option in Spring boot project 
 -Dserver.port=8090
 
 <br/>
