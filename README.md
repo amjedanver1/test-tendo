@@ -31,18 +31,18 @@ Ex: <br/>
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUZXN0VXNlciIsImV4cCI6MTY3MDExNDgzMywiaWF0IjoxNjcwMDc4ODMzfQ.SQOUKJLGfT_q9oCtq5EBTQgnG-p2AVljGd2hx-iVSUs
 
 <br/>
-# User
+# User End Point
 <br/>
 http://localhost:8090/user/getAll 
 <br/>
 
-# Post
+# Post End Point
 <br/>
 http://localhost:8090/post/getAll
 <br/>
 http://localhost:8090/post/getByUserId/3907
 
-# Comments
+# Comments End Point
 http://localhost:8090/comment/getAll
 <br/>
 http://localhost:8090/comment/getByPostId/1881
