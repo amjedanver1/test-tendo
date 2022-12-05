@@ -1,6 +1,13 @@
 # test-lendo
 Public api processing and authentication
 
+<br/>
+
+# User VM option in Spring boot project 
+-Dserver.port=8090
+
+<br/>
+
 # Get Authentication token
 Method : Post 
 URL : http://localhost:8090/auth
